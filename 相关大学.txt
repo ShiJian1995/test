@@ -1,0 +1,12 @@
+1、苏黎世联邦理工学院 实验室：（Autonomous System Lab）视觉历程计，基于视觉的定位和深度重建算法
+2、明尼苏达大学 实验室：（Multiple Autonomous Robotic Systems Laboratory）,四轴飞行器导航、合作建图、基于地图的定位、半稠密地图创建
+3、慕尼黑理工大学 实验室：The Computer Vision Group ,基于图像的3-D重建、机器人视觉、视觉SLAM
+4、佐治亚理工学院，美国亚特兰大
+5、密歇根大学
+6、MIT（麻省理工大学）
+7、卡内基.梅隆大学
+8、苏黎世联邦理工学院
+9、英国帝国理工大学
+10、University of Technology Sydney（悉尼科技大学、澳大利亚）
+11、萨拉戈萨大学，西班牙
+12、波恩大学，德国
